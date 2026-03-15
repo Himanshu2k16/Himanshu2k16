@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm Himanshu Dobariya
+**A passionate Full Stack Developer || Software Developer || Java developer from India**
+
+Email Me 👉 ✉️ **hdobariya135@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Full stack project which will help me learn java
+- 🌱 **I’m currently learning:** Advance Java and frameworks
+- 🤔 **I’m looking for help with:** Learning more in development
+- 💬 **Ask me about:** Java and Application development
+- 📫 **How to reach me:** Mail me
+- 😄 **Pronouns:** Himanshu Dobariya
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-dobariya-0b438b313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hdobariya135@gmail.com) 
